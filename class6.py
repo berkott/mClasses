@@ -28,7 +28,6 @@ del x[1]
 x.remove(10)
 print(x)
 
-
 # 8.5 List slices
 x = [3, 5, 6, 6, 10]
 

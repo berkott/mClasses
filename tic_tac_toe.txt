@@ -1,0 +1,3 @@
+To place piece: Specify location on grid
+Outputting characters to look like game board
+List to store game state
