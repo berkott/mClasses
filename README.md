@@ -10,5 +10,5 @@ Python Classes for M
 - http://programarcadegames.com/index.php?chapter=example_code
 - https://realpython.com/pygame-a-primer/
 
-##Future Topics
+## Future Topics
 - NumPy!
