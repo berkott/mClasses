@@ -1,0 +1,52 @@
+To place piece: Specify location on grid
+Outputting characters to look like game board
+List to store game state
+
+player1 = [str_inputs]
+player2 = [str_inputs]
+
+def print_current_board():
+    game_board = str
+
+    player1
+    player2
+
+    Option 1:
+
+    game_board = [[" ", "|", " ", "|", " "], 
+                  ["-", "+", "-", "+", "-"], 
+                  [" ", "|", " ", "|", " "], 
+                  ["-", "+", "-", "+", "-"],
+                  [" ", "|", " ", "|", " "]]
+    
+    game_board = [[" ", "|", " ", "|", " "], 
+                  ["-", "+", "-", "+", "-"], 
+                  [" ", "|", " ", "|", " "], 
+                  ["-", "+", "-", "+", "-"],
+                  [" ", "|", " ", "|", " "]]
+
+    game_board = [[" ", " ", " "], 
+                  [" ", " ", " "], 
+                  [" ", " ", " "]]
+
+    for move in player1:
+        if move == "middle middle":
+            game_board[2][2] = "X"
+            
+            # Alternatively: 
+            game_board[1][1] = "X"
+
+    player2
+
+    print(f"{game_board[0][0]}|{{game_board[0][0]}")
+    print()
+    print()
+    print()
+    print()
+
+while (Main Loop):
+    take_player_1_input()
+    print_current_board()
+
+    take_player_2_input()
+    print_current_board()
