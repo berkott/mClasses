@@ -1,7 +1,10 @@
 # mClasses
 Python Classes for M
 
-## Materials:
+## Resources:
+ - https://javascript.info/
+ - https://technotitans.slab.com/posts/git-guide-z98a7s1b
+
 ### General
 - http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 

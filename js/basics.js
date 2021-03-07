@@ -98,6 +98,7 @@ function whenClicked() {
     console.log(michalesAge);
     console.log(streetName);
     console.log(sentence);
+    document.getElementById("my-heading").innerText = "hello";
 
     // console.log("Michael says hi!");
     // console.log(document.getElementById("Input").value);
